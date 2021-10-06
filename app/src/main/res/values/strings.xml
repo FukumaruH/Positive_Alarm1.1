@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ポジティブアラーム</string>
+    <string name="time_button">アラーム設定</string>
+    <string name="game_button">ゲーム設定</string>
+    <string name="toast_msg_off">ゲームをOFFにしました</string>
+    <string name="toast_msg_on">ゲームをONにしました</string>
+    <string name="backbt_msg">戻る</string>
+    <string name="setbt_msg">保存</string>
+    <string name="stopbt_msg">アラームを止める</string>
+    <!-- クイズ画面 -->
+    <string name="question_label">問題文</string>
+    <string name="count_label">Q%d</string>
+    <string name="question">ポジティブな言葉に変換してください</string>
+    <string name="answer_btn">選択肢</string>
+    <string name="prev_label">前の問題 : %s</string>
+    <string name="prev_label2">答え : %s</string>
+</resources>
